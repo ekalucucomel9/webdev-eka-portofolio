@@ -1,6 +1,7 @@
 # 🌐 Personal Portfolio Website – Versi 0.7
+# Simple and Responsive Personal Website
 
-Proyek ini adalah website portofolio pribadi yang dibuat sebagai bagian dari tugas praktik mata kuliah *Teknologi Informasi dan Komunikasi / Pengembangan Web Dasar*. Website ini terdiri dari tiga file utama:  
+Proyek ini adalah website portofolio pribadi yang dibuat sebagai bagian dari tugas praktik mata kuliah *Pembelajaran Web*. Website ini terdiri dari tiga file utama:  
 - index.html — struktur halaman  
 - style.css — tampilan dan layout  
 - script.js — interaktivitas dasar  
@@ -18,3 +19,12 @@ Proyek ini akan terus dikembangkan hingga akhir semester sebagai portofolio digi
 ---
 
 ## 📁 Struktur Folder
+├── index.html        → Struktur utama halaman portofolio
+├── style.css         → File styling (layout, warna, tipografi)
+├── script.js         → Interaksi dasar menggunakan JavaScript
+└── assets/           → Folder untuk gambar, ikon, atau resource pendukung
+
+---
+
+## 🤝 Kontribusi 
+Kontribusi sangat terbuka! Silakan buat *pull request* atau *issue* jika ingin menambahkan fitur, memperbaiki kode, atau meningkatkan dokumentasi.
